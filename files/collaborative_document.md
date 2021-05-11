@@ -1,90 +1,69 @@
 # Collaborative Document
-YYYY-MM-DD Workshop Type 
 
-Welcome to The Workshop Collaborative Document 
+YYYY-MM-DD Workshop Type.
+
+Welcome to The Workshop Collaborative Document.
+
+This Document is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents.
+
+----------------------------------------------------------------------------
+
+This is the Document for today: [link](<url>)
+
+Collaborative Document day 1: [link](<url>)
+
+Collaborative Document day 2: [link](<url>)
+
+Collaborative Document day 3: [link](<url>)
+
+Collaborative Document day 4: [link](<url>) 
+
+## 👮Code of Conduct
+
+* Participants are expected to follow those guidelines:
+* Use welcoming and inclusive language.
+* Be respectful of different viewpoints and experiences.
+* Gracefully accept constructive criticism.
+* Focus on what is best for the community.
+* Show courtesy and respect towards other community members.
  
+## ⚖️ License
 
-This Document is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents. 
+All content is publicly available under the Creative Commons Attribution License: [creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
-All content is publicly available under the Creative Commons Attribution License 
+## 🙋Getting help
 
-https://creativecommons.org/licenses/by/4.0/ 
+To ask a question, type `/hand` in the chat window.
 
- ---------------------------------------------------------------------------- 
+To get help, type `/help` in the chat window.
 
-This is the Document for today:[link] 
+You can ask questions in the document or chat window and helpers will try to help you.
 
-Collaborative Document day 1: [link] 
+## 🖥 Workshop website
 
-Collaborative Document day 2: [link] 
+[link](<url>)
 
-Collaborative Document day 3: [link] 
+🛠 Setup
 
-Collaborative Document day 4: [link] 
+[link](<url>)
 
-  
+Download files
 
-## 👮Code of Conduct 
+[link](<url>)
 
-* Participants are expected to follow those guidelines: 
-* Use welcoming and inclusive language 
-* Be respectful of different viewpoints and experiences 
-* Gracefully accept constructive criticism 
-* Focus on what is best for the community 
-* Show courtesy and respect towards other community members 
- 
+## 👩‍🏫👩‍💻🎓 Instructors
 
-## ⚖️ License 
+Instructor 1, Instructor 2
 
-All content is publicly available under the Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/ 
+## 🧑‍🙋 Helpers
 
- 
+Helper 1, Helper 2  
 
-## 🙋Getting help 
-to ask a question, type `/hand` in the chat window 
+## 👩‍💻👩‍💼👨‍🔬🧑‍🔬🧑‍🚀🧙‍♂️🔧 Roll Call
+Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / background or interests (optional) / city
 
-to get help, type `/help` in the chat window 
+## 🗓️ Agenda
 
-you can ask questions in the document or chat window and helpers will try to help you 
- 
+## 🧠 Collaborative Notes
 
-## 🖥 Workshop website 
-
-[link] 
-
-
-🛠 Setup 
-[link] 
-
-Download fieles
-[link]
- 
-
-## 👩‍🏫👩‍💻🎓 Instructors 
-
-Instructor 1, Instructor 2 
- 
-
-## 🧑‍🙋 Helpers 
-
-Helper 1, Helper 2 
- 
-
-## 👩‍💻👩‍💼👨‍🔬🧑‍🔬🧑‍🚀🧙‍♂️🔧 Roll Call 
-Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / background or interests (optional) / city 
-* 
- 
-
-## 🗓️ Agenda 
-
- 
- 
-
-## 🧠 Collaborative Notes 
-
- 
- 
-
-## 📚 Resources 
-
- 
+## 📚 Resources
