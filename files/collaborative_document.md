@@ -66,4 +66,30 @@ Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / ba
 
 ## 🧠 Collaborative Notes
 
+
+## Check-in
+Suggested symbols:
+- yes: :heavy_check_mark:
+- no: :red_circle:
+- option: :star:
+
+Question:
+
+| Name                     | Response |
+|:-------------------------|:---------|
+|                          |          |
+|                          |          |
+|                          |          |
+|                          |          |
+|                          |          |
+|                          |          |
+|                          |          |
+|                          |          |
+
 ## 📚 Resources
+
+## Feedback
+### :thumbsdown: Tip
+
+### :thumbsup: Top
+
