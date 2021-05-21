@@ -69,9 +69,9 @@ Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / ba
 
 ## Check-in
 Suggested symbols:
-- yes: :heavy_check_mark:
-- no: :red_circle:
-- option: :star:
+- yes: ✔️
+- no: 🔴
+- option: ⭐
 
 Question:
 
@@ -89,7 +89,7 @@ Question:
 ## 📚 Resources
 
 ## Feedback
-### :thumbsdown: Tip
+### 👍 Tip
 
-### :thumbsup: Top
+### 👎 Top
 
