@@ -89,7 +89,7 @@ Question:
 ## 📚 Resources
 
 ## Feedback
-### 👍 Tip
+### 👎 Tip
 
-### 👎 Top
+### 👍 Top 
 
