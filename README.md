@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
+# This repository is archived in favour of our [new workshop template](https://github.com/esciencecenter-digital-skills/workshop-template)
 # eScience academy The Carpentries Workshop Template
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops, updated to match our 
